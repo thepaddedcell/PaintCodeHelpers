@@ -1,5 +1,5 @@
 # PaintCodeHelpers
-A project that holds all of the helpers I've written for using PaintCode in conjunction with iOS Development.
+A project that holds all of the helpers I've written for using PaintCode (http://www.paintcodeapp.com) in conjunction with iOS Development.
 
 # How this works
 PaintCode generates Objective-C or Swift code to create UIBezierPaths that you then import into your project.
